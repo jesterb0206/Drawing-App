@@ -15,11 +15,11 @@
 
 <br>
 
-![Drawing App]()
+![Drawing App](images/drawing-app.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Drawing-App/)
 
 <br>
 
